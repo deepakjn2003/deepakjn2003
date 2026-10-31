@@ -15,7 +15,7 @@ Backend Software Engineer passionate about high-throughput distributed systems a
 
 ### Professional Experience
 
-- **SDE-1 (Backend)** — Junglee Games, Bengaluru *(Sep 2025 — Present)*
+- **SDE-1 (Backend)** — Junglee Games, Bengaluru *(Sep 2025 — Sep 2026)*
 - **SDE Intern (Backend)** — Junglee Games, Bengaluru *(Sep 2024 — Aug 2025)*
 
 ---
